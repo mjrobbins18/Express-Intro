@@ -289,10 +289,10 @@ app.get('/:name', function(req, res) {
 })
 ```
 
-If we visit `http://localhost:4000/Whiskers`, then the HTML we would get back would be:
+If we visit `http://localhost:4000/Ishmael`, then the HTML we would get back would be:
 
 ```html
-<h1>Hello Whiskers</h1>
+<h1>Call me Ishmael</h1>
 ```
 
 Let's set up our Express app to use Handlebars. We first need to install it as a project dependency:

@@ -364,7 +364,7 @@ It should look the same. Now try to add some thing else between the 2 Index file
 
 In the time remaining, work through building out an app for the song 99 Bottles of Beer.
 
-The instructions for this exercise can be found [here](https://git.generalassemb.ly/SEIR-32221/99_bottles_express).
+The instructions for this exercise can be found [here](https://git.generalassemb.ly/sei-712/99_bottles_express).
 
 ## Introducing Middleware
 
